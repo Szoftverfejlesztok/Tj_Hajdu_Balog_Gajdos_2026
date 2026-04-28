@@ -1,1 +1,8 @@
-# Tj_Hajdu_Balog_Gajdos_2026
+# Vizsgaremek leltar
+
+Leltár program amiben fell tudsz tolteni, leszedni es kategorizalni alucikeket az adatbazisbol!
+
+Features:
+- upload/download
+- modern graphics
+- ~~cancer~~ Patched
