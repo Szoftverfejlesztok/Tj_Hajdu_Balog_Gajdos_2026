@@ -1,8 +1,9 @@
 # Vizsgaremek leltar
 
-Leltár program amiben fell tudsz tolteni, leszedni es kategorizalni alucikeket az adatbazisbol!
+Mindenre felhasznalhato leltár program helyi adatbazishoz!  
+[Eredeti repo](https://github.com/HajduThomas/Vizsgaremek-leltar)
 
-Features:
-- upload/download
-- modern graphics
-- ~~cancer~~ Patched
+## Features:
+- automatic mysql table reading
+- modern UI
+- easy to use
